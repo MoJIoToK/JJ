@@ -1,0 +1,21 @@
+[ {
+  "name" : "Васечкин",
+  "age" : 18,
+  "expelled" : false,
+  "gpa" : 5.0
+}, {
+  "name" : "Иванова",
+  "age" : 20,
+  "expelled" : false,
+  "gpa" : 4.8
+}, {
+  "name" : "Сидоров",
+  "age" : 21,
+  "expelled" : false,
+  "gpa" : 3.5
+}, {
+  "name" : "Рпе",
+  "age" : 34,
+  "expelled" : false,
+  "gpa" : 6.2
+} ]
